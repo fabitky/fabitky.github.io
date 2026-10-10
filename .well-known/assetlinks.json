@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fabitky.twa",
+        "sha256_cert_fingerprints": ["B4:A9:EA:57:C9:C1:41:0D:52:A6:38:F3:2B:BE:2B:BA:B5:65:7F:1D:C3:61:C4:01:EC:C1:28:A7:98:32:27:0F"]
+      }
+    }]
