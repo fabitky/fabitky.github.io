@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.fabitky.twa",
-        "sha256_cert_fingerprints": ["B4:A9:EA:57:C9:C1:41:0D:52:A6:38:F3:2B:BE:2B:BA:B5:65:7F:1D:C3:61:C4:01:EC:C1:28:A7:98:32:27:0F"]
+        "sha256_cert_fingerprints": ["41:5B:33:DE:DB:40:87:FE:FD:DF:43:20:5C:38:E5:C3:9C:FF:CB:9C:B3:C6:3E:D0:A8:0D:EC:5E:FC:04:EA:AE"]
       }
     }]
